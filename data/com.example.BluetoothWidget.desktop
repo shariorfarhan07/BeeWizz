@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Bluetooth Widget
+GenericName=Bluetooth Devices
+Comment=Connect and disconnect paired Bluetooth devices with one click
+Exec=bluetooth-widget
+Icon=com.example.BluetoothWidget
+Terminal=false
+Categories=GTK;Utility;Settings;HardwareSettings;
+Keywords=bluetooth;headphones;headset;wireless;
+StartupNotify=true
